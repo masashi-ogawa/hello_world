@@ -1,3 +1,3 @@
 print "hello_world"
-print "hoge""
+print "hoge"
 
